@@ -6,4 +6,4 @@ Sou Estudante de Análise e Desenvolvimento de sistemas na Fatec atualmente esto
 
 ## Objetivos
 
-Melhorar na programação
+Melhorar na programação e aprender mais.
